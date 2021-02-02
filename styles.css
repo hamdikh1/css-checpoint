@@ -1,0 +1,27 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+h1 {
+  color :rgb(162, 0, 255) ;
+}
+h3 {
+  color :rgb(5, 11, 66);
+}
+.agri{
+  background-color: aqua;
+}
+.agro{
+  background-color: rgb(53, 59, 54);
+  width: 50%;
+  
+  }
+  body {
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 81.25%;
+}
